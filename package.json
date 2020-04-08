@@ -1,0 +1,32 @@
+{
+  "name": "a_normal_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next starts"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshleong/anormallab.git"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshleong/anormallab/issues"
+  },
+
+  "homepage": "https://github.com/joshleong/anormallab#readme",
+  
+  "dependencies": {
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
